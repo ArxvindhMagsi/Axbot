@@ -1,70 +1,113 @@
 <h1 align="center">Hi 👋, I'm Aravindh M</h1>
-<h3 align="center">A Data-driven Developer & AI Enthusiast from India</h3>
+<h3 align="center">🚀 Data-Driven Developer | AI & ML Enthusiast | Turning Information into Impact</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=I+love+turning+data+into+impact;AI+%7C+ML+%7C+Data+Engineering;Clean+code%2C+clear+insights%2C+real+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=I+love+turning+raw+data+into+real+solutions.;AI+%7C+ML+%7C+Deep+Learning+%7C+Data+Engineering;Clean+Code.+Smart+Models.+Practical+Impact."/>
 </p>
 
 ---
 
-🔍 **About Me**
+## 🔍 About Me
 
-- 🔭 I’m driven by the belief that **data is more than numbers — it’s the story behind every solution**.
-- 💡 I enjoy building **smart, scalable systems** that solve real problems.
-- 🚀 From **frontend design** to **deep learning pipelines**, I love connecting code to real-world impact.
-- 📚 Currently leveling up my skills in **AI, cloud solutions & production-grade ML**.
-- 🤝 Looking to collaborate on **innovative, data-focused projects**.
+🙌 Hello! I’m Aravindh, a developer who believes that **data is the engine that drives real change**.  
+💡 I love building **smart, scalable systems** that solve practical problems — from front-end apps to deep learning models.  
+🌱 **Always learning:** I enjoy exploring AI, Cloud, Data Engineering, and best practices that keep code clean and solutions meaningful.  
+🧩 **Core Focus:** Data pipelines | ML Ops | NLP | Computer Vision | Cloud Deployment | Usability
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Mail-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/></a>
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="https://twitter.com/your-handle" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
+## 📌 What I Believe In
+
+✅ **Data is a Story:** Numbers are just numbers until we find the insight they’re hiding.  
+✅ **Simplicity Matters:** I aim for solutions that are practical and easy to maintain.  
+✅ **Impact First:** Whether it’s a small script or a full product, I build to make life better.  
+✅ **Clean Code:** Code should be readable — for me and for the next person who works on it!
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧩 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,css,react,angular,nodejs,reactnative" />
+</p>
+
+### 📊 Data, AI & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,pandas,hadoop,mongodb,mysql,firebase,aws" />
+</p>
+
+### 🛠️ Tools & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,postman,selenium,git,github" />
 </p>
 
 ---
 
-<h3 align="left">💻 Languages and Tools:</h3>
+## 🌐 Connect with Me
 
-<p align="left">
-  <!-- Frontend & Design -->
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <!-- Backend & Data -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
-  <!-- Cloud & Tools -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a>
+<p>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 ---
 
-<h3 align="center">📈 My GitHub Stats</h3>
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" alt="stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Aravindh's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="Aravindh's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" alt="Aravindh's Activity Graph" />
 </p>
 
 ---
 
-<p align="center">⚡ *Turning ideas into impact, one dataset at a time.*</p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=dracula&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## 📚 What I'm Learning Right Now
+
+✅ Reinforcement Learning Algorithms  
+✅ Production ML Pipelines & MLOps  
+✅ Cloud-based AI Deployment (AWS, Firebase)  
+✅ UX Research for AI Solutions  
+
+---
+
+## ✨ Fun Facts
+
+- 💬 I love mentoring my peers and sharing what I learn.
+- 🎨 In my free time, you’ll find me designing infographics or UI concepts.
+- 🌏 I’m deeply passionate about using **data to make cities cleaner and systems smarter**.
+- 🚀 I believe the best tech is tech that works for everyone, not just for machines.
+
+---
+
+## 📫 Let’s Talk!
+
+**Open to:**  
+✅ AI/ML Developer roles  
+✅ Data Engineering internships  
+✅ Open-source AI collaborations  
+✅ Real-world problem-solving hackathons
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
+<p align="center"><b>✨ Turning data into decisions, one project at a time ✨</b></p>
