@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-groq
+arxiv
+wikipedia-api
+tavily-python
+google-search-results
+requests
+beautifulsoup4
+matplotlib
+seaborn
+pandas
+Pillow
+python-dotenv
+openai
+groq
+wikipedia
